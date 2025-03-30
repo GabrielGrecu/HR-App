@@ -1,0 +1,3 @@
+CREATE USER 'si-2025'@'%' IDENTIFIED BY 'licenta2025';
+GRANT ALL PRIVILEGES ON candidate_management.* TO 'si-2025'@'%';
+FLUSH PRIVILEGES;
