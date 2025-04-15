@@ -1,13 +1,13 @@
-package com.upt.si.cm;
+package com.upt.licenta.um;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CandidateManagementApplication {
+public class UserManagementApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CandidateManagementApplication.class, args);
+        SpringApplication.run(UserManagementApplication.class, args);
     }
 
 }

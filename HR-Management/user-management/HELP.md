@@ -1,6 +1,6 @@
 The following was discovered as part of building this project:
 
-* The original package name 'com.nagarro.si.user-management' is invalid and this project uses 'com.nagarro.si.um' instead.
+* The original package name 'com.upt.licenta.user-management' is invalid and this project uses 'com.upt.si.um' instead.
 
 # Getting Started
 

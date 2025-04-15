@@ -1,4 +1,4 @@
-package com.upt.si.um;
+package com.upt.licenta.um;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

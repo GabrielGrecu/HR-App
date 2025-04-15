@@ -1,4 +1,4 @@
-package com.upt.si.cm;
+package com.upt.licenta.cm;
 
 
 import org.junit.jupiter.api.Test;
